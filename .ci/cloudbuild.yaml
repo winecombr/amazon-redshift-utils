@@ -4,6 +4,7 @@ steps:
     args: 
       - build
       - --tag=gcr.io/$PROJECT_ID/amazon-redshift-utils
+      - .
 
 images: 
   - 'gcr.io/$PROJECT_ID/amazon-redshift-utils'
