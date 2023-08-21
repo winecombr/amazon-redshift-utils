@@ -8,7 +8,7 @@
         "email": "meyersi@amazon.com"
     },
     "dependencies": {
-        "async": "2.0.0-rc.5 ",
+        "async": "2.6.4",
         "moment": "2.19.3"
     },
     "keywords": [
