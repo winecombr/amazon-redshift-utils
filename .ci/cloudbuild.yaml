@@ -7,4 +7,4 @@ steps:
       - .
 
 images: 
-  - 'us-docker.pkg.dev/$PROJECT_ID/inecombr-devops/amazon-redshift-utils'
+  - 'us-docker.pkg.dev/$PROJECT_ID/winecombr-devops/amazon-redshift-utils'
